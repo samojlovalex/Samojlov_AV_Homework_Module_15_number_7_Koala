@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Overall dimensions-->
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="minHeight">48dp</dimen>
+    <!--Margin-->
+    <dimen name="overall_margin">8dp</dimen>
+    <!--CardView-->
+    <dimen name="cardCornerRadius">6dp</dimen>
+    <dimen name="cardElevation">6dp</dimen>
+    <!--TextSize-->
+    <dimen name="buttonTextSize">20sp</dimen>
+</resources>

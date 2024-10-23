@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_15_number_7_Koala</string>
+    <string name="buttonBT_Text">Загрузить</string>
+    <string name="toolbar_title">Загрузчик картинок</string>
+    <string name="toolbar_subtitle">Mod. 15 № 7</string>
+    <string name="exit">Exit</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <string name="app_error_Toast">app error %1$s</string>
+    <string name="http_error_Toast">http error %1$s</string>
+</resources>
