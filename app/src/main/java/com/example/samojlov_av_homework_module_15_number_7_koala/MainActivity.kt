@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var toolbar: androidx.appcompat.widget.Toolbar
     private lateinit var imageDogIV: ImageView
     private lateinit var buttonBT: Button
-    private lateinit var textImageTV: TextView
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -55,7 +55,6 @@ class MainActivity : AppCompatActivity() {
 
         imageDogIV = binding.imageDogIV
         buttonBT = binding.buttonBT
-        textImageTV = binding.textImageTV
 
         buttonBT.setOnClickListener {
             getImageDog()
